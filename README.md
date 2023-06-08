@@ -27,6 +27,6 @@ It contains the following sections:
 The objective of the project is to learn to use HTML5 and CSS3 tags.
 
 ## 4. Link to demo
-Here you can view my completed project: [Google Clone]([#](https://rad-swan-ae79d7.netlify.app))
+Here you can view my completed project: [Google Clone](https://rad-swan-ae79d7.netlify.app)
 
 
